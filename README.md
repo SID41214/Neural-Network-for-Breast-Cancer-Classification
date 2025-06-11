@@ -13,7 +13,7 @@ A machine learning project that utilizes a neural network to classify breast can
 - [Usage](#-usage)
 - [Results and Evaluation](#-results-and-evaluation)
 - [Contributing](#-contributing)
-- [License](#-license)
+
 
 
 
